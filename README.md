@@ -1,1 +1,1 @@
-# NPM-Package-Template
+# Email-HTML-Generator
